@@ -9,7 +9,7 @@ helm repo update
 helm upgrade --install cnp-sandbox cnp-sandbox/cnp-sandbox
 "
 echo -e  ""
-read -p "..."
+sleep 3
 
 helm repo add cnp-sandbox https://enterprisedb.github.io/cnp-sandbox/
 helm repo update
