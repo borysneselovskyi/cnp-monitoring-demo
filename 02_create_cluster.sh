@@ -19,7 +19,7 @@ spec:
 EOF
 "
 #read -p "..."
-sleep 5
+sleep 3
 
 kubectl apply -f - <<EOF
 ---
