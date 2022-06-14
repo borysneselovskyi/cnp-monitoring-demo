@@ -43,3 +43,9 @@ From the Grafana interface, you can find the dashboard by selecting: Dashboards 
 ![image](https://user-images.githubusercontent.com/70379260/173578276-d42436e3-7e01-438a-948f-d8f0c7f10ec9.png)
 
 ![image](https://user-images.githubusercontent.com/70379260/173578317-e1672572-345b-44a9-9a8b-0f44dcc0892f.png)
+
+# Cleanup the Demo Environment
+To Delete the cluster ruun
+```
+./99_remove_cluster.sh
+```
